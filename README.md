@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iam-elango
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Digital Forensics
+- 🌱 I’m currently practicing RedTeaming
 
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/iamelango/
 - 😄 Pronouns: he/him
