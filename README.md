@@ -30,7 +30,6 @@ $ whoami
 ![ExtPT](https://img.shields.io/badge/External_Pentesting-cc0000?style=flat-square)
 ![Infra](https://img.shields.io/badge/Infrastructure_Security-cc0000?style=flat-square)
 ![AppSec](https://img.shields.io/badge/AppSec-cc0000?style=flat-square)
-![OOS](https://img.shields.io/badge/OffOpSec-cc0000?style=flat-square)
 ![Azure](https://img.shields.io/badge/Azure_Red_Teaming-7a3a00?style=flat-square)
 ![IA](https://img.shields.io/badge/Initial_Access-cc0000?style=flat-square)
 ![LM](https://img.shields.io/badge/Lateral_Movement-cc0000?style=flat-square)
