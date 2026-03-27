@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--              RED TEAM OPERATOR // IAM-ELANGO               -->
+<!--              RED TEAM // IAM-ELANGO               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 ```
 $ whoami
-> iam-elango | red team operator · adversary simulation specialist
-> age: 20 | started: 2nd year of college | mission: break · analyse · understand
+> iam-elango | Jr red teamer · adversary simulation
+> age: 20 | mission: understand · analyse · break  
 ```
 
 ---
