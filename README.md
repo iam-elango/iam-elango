@@ -13,10 +13,10 @@ $ whoami
 
 | Badge | Certification | Issuer | Status |
 |-------|--------------|--------|--------|
-| ![CRTP](https://img.shields.io/badge/CRTP-cc0000?style=flat-square) | Certified Red Team Professional | Pentester Academy | ![done](https://img.shields.io/badge/✓_Certified-1a4a1a?style=flat-square) |
+| ![CRTP](https://img.shields.io/badge/CRTP-cc0000?style=flat-square) | Certified Red Team Professional | Altered Security | ![done](https://img.shields.io/badge/✓_Certified-1a4a1a?style=flat-square) |
 | ![CNSP](https://img.shields.io/badge/CNSP-cc0000?style=flat-square) | Certified Network Security Practitioner | The SecOps Group | ![done](https://img.shields.io/badge/✓_Certified-1a4a1a?style=flat-square) |
 | ![CEH](https://img.shields.io/badge/CEH-cc0000?style=flat-square) | Certified Ethical Hacker | EC-Council | ![done](https://img.shields.io/badge/✓_Certified-1a4a1a?style=flat-square) |
-| ![CARTP](https://img.shields.io/badge/CARTP-7a3a00?style=flat-square) | Certified Azure Red Team Professional | Pentester Academy | ![wip](https://img.shields.io/badge/⟳_In_Progress-4a3000?style=flat-square) |
+| ![CARTP](https://img.shields.io/badge/CARTP-7a3a00?style=flat-square) | Certified Azure Red Team Professional | Altered Security | ![wip](https://img.shields.io/badge/⟳_In_Progress-4a3000?style=flat-square) |
 
 ---
 
